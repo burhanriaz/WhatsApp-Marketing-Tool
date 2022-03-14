@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Whatsapp Marketing.exe" version="1.0.0.2" publicKeyToken="a34f4c8701c1fbd1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Whatsapp Marketing" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Whatsapp Marketing.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ClosedXML.dll" size="1184256">
+      <assemblyIdentity name="ClosedXML" version="0.95.4.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>D7ePctFwlE5qeNC2MdYpSH2YS7oWOj4qpyMr093PJb8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DocumentFormat.OpenXml.dll" size="5697824">
+      <assemblyIdentity name="DocumentFormat.OpenXml" version="2.7.2.0" publicKeyToken="8FB06CB64D019A17" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>poeWiknlhBNq1OeIpsSUWt4fCGjpLQslgLOzl2R98Uc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ExcelNumberFormat.dll" size="28160">
+      <assemblyIdentity name="ExcelNumberFormat" version="1.0.10.0" publicKeyToken="23C6F5D73BE07ECA" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>J2gCiGcsqPn4/MoBGNMvcNAHOUBV8X5lI5SZyVuAOw0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Guna.UI.dll" size="1136296">
+      <assemblyIdentity name="Guna.UI" version="1.9.0.1" publicKeyToken="AD275B4BE6718D4B" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>KAUtDqFdUdmwn9C4LBlFKRQXnye8SOe0IsJeNkclyVY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="System.IO.Packaging.dll" size="51920">
+      <assemblyIdentity name="System.IO.Packaging" version="4.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>a77yplv1/pj7P2UX/7ewHe3KepCwTXd6zzD7X6HpI9g=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tesseract.dll" size="114688">
+      <assemblyIdentity name="Tesseract" version="3.0.2.0" publicKeyToken="EBEB3D86BEF60CBE" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>0dCfBfakxci5oJJ/pO/29xsRGkr4MA5XDKVru4FhZrA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Whatsapp Marketing.exe" size="589264">
+      <assemblyIdentity name="Whatsapp Marketing" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>oblPyfLu6VlUyxNkSuXctVE3bVTlGDVIvUPRnr79cEY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Whatsapp Marketing.exe.config" size="585">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>k01KDa1A9B/0pNtADcKaYxF1Dy4St/NgfNxS2VyCr4s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="whatsapppmarketing.mdf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BgotMgFcxunY0YPw50WDl8YgjA38F7p5DTSr6ZTp3zE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="whatsapppmarketing_log.ldf" size="8388608" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>fmLgOcKZ/iwBAvnz4uD4MuiPoAaNlvFHDJ8Ffo7+zCk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="x64\liblept172.dll" size="3207680">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>r+4T7ebN0inyk9TiNxRCyqFIyRHSmqmirtxLtZNHC40=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="x64\libtesseract304.dll" size="2743808">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vLIZBCWg8RXRbqRKCAOiJG72a+T0ApHGV6omx05TCvQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="x86\liblept172.dll" size="2459648">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>FgQjGZA9ktMYCx0cgiMPfTty1erM/K5qlxovBirPY8s=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="x86\libtesseract304.dll" size="2138624">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>qFsDhj5LJ1WDm6TV1w1hubI8nMOyPxMzOYoN1Bjr1+c=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-R453ISR\pc" issuerKeyHash="34fd0951df7239df281d43aa1470fc6982cb2177" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+LlMKEsugETRMALRvIQoeEaTbp1fhjbuPYKaf3OgFvg=</DigestValue></Reference></SignedInfo><SignatureValue>G6od6aqOMIGe7ClwNxbuBM6ChDQ7ukJbY0wPjCkYHuBw9HjQ+5xZazNsJGUfs3/EasKUtPZi0Kg3W7ieLQyrs2ksFMZi0NWnW+SFRw+CYz+4JTFIthFLno68GGQ6YIQ4EyRDypyfirtvI4Z4Vsivs9oRZu3dLuFOF8F6YvCZcok=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>2lJfYgGAhhV7TtoEEvirVjvWnmFVRnPYVtCnNJdodimXisP3CBPqpq5IlfI9f+v+ZYc5uzhN5YLpzvF4TA2zrkr6RWfNzn4idWaM6DNIvYMjyun+ZAk1v34NncoS4VWK1AbWB1779bl5mE7tQ6pqkvhRGgF2Ca9QeZDbWURn1xU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f816a0737f9a823dee36865f9d6e9346782884bcd10230d144802e4b284cb9f8" Description="" Url=""><as:assemblyIdentity name="Whatsapp Marketing.exe" version="1.0.0.2" publicKeyToken="a34f4c8701c1fbd1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-R453ISR\pc</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>kJegt3U2sokyVwPxzKI2mharSag8JZZDL0mpSc0En6I=</DigestValue></Reference></SignedInfo><SignatureValue>cWQgF/QY1VmH9nbQbDeVsFaq+uQvwLe/LCG3K26Bhzt0/fYsR2CGmT3cjtOaCArVJfxum3xYjTsTtNzMV0RLue+ETYt5WHSO+UGvD1NyUeH/chM03eK9Dx4QDaCNdSvObcqZmy4hDMW0g+34nIYsAY2GDebTlWeFQ8gqXPfNYAI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>2lJfYgGAhhV7TtoEEvirVjvWnmFVRnPYVtCnNJdodimXisP3CBPqpq5IlfI9f+v+ZYc5uzhN5YLpzvF4TA2zrkr6RWfNzn4idWaM6DNIvYMjyun+ZAk1v34NncoS4VWK1AbWB1779bl5mE7tQ6pqkvhRGgF2Ca9QeZDbWURn1xU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQVrjf0yljH5dP06qhnR1rSDANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQARABFAFMASwBUAE8AUAAtAFIANAA1ADMASQBTAFIAXABwAGMwHhcNMjIwMzAyMTgzMTI4WhcNMjMwMzAzMDAzMTI4WjAvMS0wKwYDVQQDHiQARABFAFMASwBUAE8AUAAtAFIANAA1ADMASQBTAFIAXABwAGMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANpSX2IBgIYVe07aBBL4q1Y71p5hVUZz2FbQpzSXaHYpl4rD9wgT6qauSJXyPX/r/mWHObs4TeWC6c7xeEwNs65K+kVnzc5+InVmjOgzSL2DI8rp/mQJNb9+DZ3KEuFVitQG1gde+/W5eZhO7UOqapL4URoBdgmvUHmQ21lEZ9cVAgMBAAEwDQYJKoZIhvcNAQELBQADgYEA1Xfh3S2lHd93PN+uhahu8boNbj8DIiD2JzxrGdjjzevEzkYsc5nXOro4CL5r3+pLaraVzFkLgn53qoIYOOTpYY0ScKu2hT/SWIB952ZKXKMm3CbcVN4RxVgquG2EsOBmV7I0lTEhJrcQaMGBtPHHiOlNGTSQDGQ3ipb5CD5ojFY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,78 @@
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x64\liblept172.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x64\libtesseract304.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x86\liblept172.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x86\libtesseract304.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.exe.config
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.exe.manifest
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.application
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.exe
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.pdb
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ClosedXML.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ExcelNumberFormat.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Guna.UI.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\System.IO.Packaging.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Tesseract.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ClosedXML.pdb
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ClosedXML.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ExcelNumberFormat.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Tesseract.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.Login.resources
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.NumberGenrator.resources
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.Properties.Resources.resources
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.Send_Bluk.resources
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.exe.manifest
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.application
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.CopyComplete
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.exe
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.pdb
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\whatsapppmarketing.mdf
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\whatsapppmarketing_log.ldf
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x64\liblept172.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x64\libtesseract304.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x86\liblept172.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\x86\libtesseract304.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.exe.config
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.exe.manifest
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.application
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.exe
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Whatsapp Marketing.pdb
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ClosedXML.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\DocumentFormat.OpenXml.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ExcelNumberFormat.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\System.IO.Packaging.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Tesseract.dll
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ClosedXML.pdb
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ClosedXML.xml
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\DocumentFormat.OpenXml.xml
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\ExcelNumberFormat.xml
+F:\Whatsapp Marketing\Whatsapp Marketing\bin\Release\Tesseract.xml
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.AssemblyReference.cache
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.SuggestedBindingRedirects.cache
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.ResolveComReference.cache
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.Login.resources
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.NumberGenrator.resources
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.Properties.Resources.resources
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.Send_Bluk.resources
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.GenerateResource.cache
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.CoreCompileInputs.cache
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.exe.manifest
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.application
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.CopyComplete
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.exe
+F:\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.pdb
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp Marketing.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\EntityFramework.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\System.Data.SQLite.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\EntityFramework.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\bin\Release\System.Data.SQLite.xml
+C:\Users\pc\Desktop\Whatsapp Marketing\Whatsapp Marketing\obj\Release\Whatsapp_Marketing.loading.resources

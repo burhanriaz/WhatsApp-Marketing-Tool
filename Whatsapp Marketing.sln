@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whatsapp Marketing", "Whatsapp Marketing\Whatsapp Marketing.csproj", "{A724D132-D135-4E12-80D9-D90D9C2CE470}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WhatsApp Maketing Tool", "WhatsApp Maketing Tool\WhatsApp Maketing Tool.vdproj", "{1090C34E-5E9E-4FE3-860F-C544C4754CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A724D132-D135-4E12-80D9-D90D9C2CE470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A724D132-D135-4E12-80D9-D90D9C2CE470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A724D132-D135-4E12-80D9-D90D9C2CE470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A724D132-D135-4E12-80D9-D90D9C2CE470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1090C34E-5E9E-4FE3-860F-C544C4754CA7}.Debug|Any CPU.ActiveCfg = Debug
+		{1090C34E-5E9E-4FE3-860F-C544C4754CA7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F78FDAA3-BD68-402E-BA11-DF1A15688DC0}
+	EndGlobalSection
+EndGlobal
